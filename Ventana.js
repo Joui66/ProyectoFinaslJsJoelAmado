@@ -18,6 +18,7 @@ function showWeaknesses(pokemon) {
         }
       });
     });
+    
   
     const weaknessesString = Array.from(weaknesses).join(', ');
     const resistancesString = Array.from(resistances).join(', ');
