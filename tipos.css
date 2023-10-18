@@ -1,0 +1,118 @@
+.planta{
+    background-color: green;
+    text-align:center;
+    width: 100%;
+    height: 40px;
+    display: grid;
+    align-items: center;
+}
+.veneno{
+    background-color: violet;
+    text-align:center;
+    width: 100%;
+    height: 40px;
+    display: grid;
+    align-items: center;
+}
+.fuego{
+    background-color: red;
+    text-align: center;
+    width: 100%;
+    height: 40px;
+    display: grid;
+    align-items: center;
+}
+.agua{
+    background-color: rgb(74, 74, 207);
+    text-align: center;
+    width: 100%;
+    height: 40px;
+    display: grid;
+    align-items: center;
+}
+.bicho{
+    background-color: rgb(136, 163, 16);
+    text-align: center;
+    width: 100%;
+    height: 40px;
+    display: grid;
+    align-items: center;
+}
+.eléctrico{
+    background-color: yellow;
+    text-align: center;
+    width: 100%;
+    height: 40px;
+    display: grid;
+    align-items: center;
+}
+.fantasma{
+    background-color: black;
+    text-align: center;
+    color: rgb(255, 251, 251);
+    width: 100%;
+    height: 40px;
+    display: grid;
+    align-items: center;
+}
+.normal{
+    background-color: grey;
+    text-align: center;
+    width: 100%;
+    height: 40px;
+    display: grid;
+    align-items: center;
+}
+.hielo{
+    background-color: aqua;
+    text-align: center;
+    width: 100%;
+    height: 40px;
+    display: grid;
+    align-items: center;
+}
+.volador{
+    background-color: rgba(146, 217, 245, 0.808);
+    text-align: center;
+    width: 100%;
+    height: 40px;
+    display: grid;
+    align-items: center;
+}
+.dragón{
+    background-color: indigo;
+    text-align: center;
+    color: white;
+    width: 100%;
+    height: 40px;
+    display: grid;
+    align-items: center;
+}
+.psíquico{
+    background-color: rgb(157, 88, 223);
+    text-align: center;
+    width: 100%;
+    height: 40px;
+    display: grid;
+    align-items: center;
+}
+.tierra{
+    background-color: rgb(128, 62, 0);
+    text-align: center;
+    width: 100%;
+    height: 40px;
+    display: grid;
+    align-items: center;
+}
+.hada{
+    background-color: pink;
+    text-align: center;
+    width: 100%;
+    height: 40px;
+    display: grid;
+    align-items: center; 
+}
+
+.missigno{
+    width: 30%;
+}
